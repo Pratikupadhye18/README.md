@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pajuupadhye1008@gmail.com
-- social media-pratik__upadhye
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
