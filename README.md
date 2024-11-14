@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratikupadhye18
+- 👋 Hi, I’m @Pratikupadhye
 - 👀 I’m interested in ...web dev
 - 🌱 I’m currently learning ...DSA
 - 💞️ I’m looking to collaborate on ...
