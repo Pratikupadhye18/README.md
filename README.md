@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Pratikupadhye
+- Here is my portfolio--https://my-portfolio7.odoo.com/
 - 👀 I’m interested in ...web dev
 - 🌱 I’m currently learning ...DSA
 - 💞️ I’m looking to collaborate on ...
