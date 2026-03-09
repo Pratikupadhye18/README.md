@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Pratikupadhye
+- Data Science Intern
 - Here is my portfolio--https://my-portfolio-green-kappa-10.vercel.app/
+  
 - 👀 I’m interested in ...web dev
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
